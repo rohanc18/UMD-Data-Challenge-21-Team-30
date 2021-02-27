@@ -1,3 +1,4 @@
 # UMD-Data-Challenge-21-Team-30
 
-Our team analyzed the behavioral changes due to COVID-19 and how these changes have affected the World Health Organization's Quality of Life Domains.
+For the past year, billions of people around the world have seen their lives turned upside down by the COVID-19 pandemic. Our team investigates how lockdown restrictions, implemented to prevent virus transmission, impacted daily life for a sample of American adults from April to July 2020. We start with a bird’s eye view, exploring changes in employment, commute patterns, and physical activity for certain demographic groups. We then review some of the specific reasons participants had for getting out of the house during lockdown. Overall, our team concludes that the pandemic has significantly disrupted key indicators for quality of life, outlined by the World Health Organization. Despite these challenges, many participants found opportunities for connection with family and friends. 
+
